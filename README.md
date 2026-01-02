@@ -1,24 +1,33 @@
 <!-- Header con wave animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ramón%20Areyuna&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ramón%20Areyuna&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
 <!-- Subtitle animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+scalable+solutions+%F0%9F%92%BB;From+San+Juan%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+scalable+solutions+%F0%9F%92%BB;From+San+Juan%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- Botones de perfil -->
+<!-- Botones de perfil mejorados -->
 <p align="center">
-  <a href="https://linkedin.com/in/ramonareyuna-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/ramonareyuna-dev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/areyuna03" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
   <a href="mailto:ramonareyuna09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Areyuna09&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://github.com/Areyuna09" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Areyuna09&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <br>
@@ -31,8 +40,8 @@ const ramon = {
     location: "San Juan, Argentina 🇦🇷",
     role: "Full-Stack Developer",
     languages: ["Spanish (Native)", "English (C1 Advanced)"],
-    currentFocus: ["Artificial Intelligence", "Data Science", "Python"],
-    passions: ["Clean Code", "Problem Solving", "Coffee ☕"],
+    currentFocus: ["Artificial Intelligence", "Data Science", "Mobile Apps", "Python"],
+    passions: ["Clean Code", "Problem Solving", "osu!", "Gaming 🎮"],
     motto: "Building scalable solutions, one commit at a time"
 };
 ```
@@ -45,13 +54,16 @@ const ramon = {
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=php,js,python,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,js,python,cs,c,cpp&theme=dark" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,vue,bootstrap,tailwind&theme=dark" />
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" />
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=dark" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver&theme=dark" />
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,wordpress,figma,vscode&theme=dark" />
