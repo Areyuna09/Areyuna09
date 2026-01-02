@@ -64,15 +64,15 @@ const ramon = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Areyuna09&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areyuna09&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Areyuna09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Areyuna09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br>
 
 <!-- GitHub Streak -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Areyuna09&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Areyuna09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br>
@@ -81,7 +81,7 @@ const ramon = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Areyuna09&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Areyuna09&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10" alt="Trophies"/>
 </div>
 
 <br>
