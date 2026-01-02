@@ -72,7 +72,7 @@ const ramon = {
 
 <!-- GitHub Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Areyuna09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Areyuna09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br>
@@ -81,7 +81,7 @@ const ramon = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Areyuna09&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Areyuna09&theme=tokyonight&no-frame=true&column=7" alt="Trophies"/>
 </div>
 
 <br>
