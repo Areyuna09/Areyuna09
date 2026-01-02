@@ -10,19 +10,18 @@
 
 <br>
 
-<!-- Botones de perfil mejorados -->
+<!-- Botones de perfil modernos -->
 <p align="center">
   <a href="https://linkedin.com/in/ramonareyuna-dev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/areyuna03" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:ramonareyuna09@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
-  </a>
-  <a href="https://github.com/Areyuna09" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
   </a>
 </p>
 
@@ -63,7 +62,8 @@ const ramon = {
 <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=dark" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="48"/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,wordpress,figma,vscode&theme=dark" />
