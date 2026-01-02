@@ -72,7 +72,7 @@ const ramon = {
 
 <!-- GitHub Streak -->
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Areyuna09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Areyuna09&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br>
