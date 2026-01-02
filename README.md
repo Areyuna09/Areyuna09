@@ -63,7 +63,7 @@ const ramon = {
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,wordpress,figma,vscode&theme=dark" />
@@ -155,5 +155,5 @@ const ramon = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Hasta+la+vista+%F0%9F%98%8E" alt="Footer" />
 </div>
