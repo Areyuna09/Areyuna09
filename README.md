@@ -1,133 +1,147 @@
+<!-- Header con wave animation -->
 <div align="center">
-
-# 👋 ¡Hola! Soy Ramón Areyuna
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;PHP+%7C+JavaScript+%7C+Vue.js+%7C+Node.js;Creando+soluciones+escalables;Siempre+aprendiendo+algo+nuevo)](https://git.io/typing-svg)
-
-**Desarrollador Full-Stack | San Juan, Argentina 🇦🇷**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ramón%20Areyuna&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
----
+<!-- Subtitle animado -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+scalable+solutions+%F0%9F%92%BB;From+San+Juan%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
+</div>
 
-## 🚀 Sobre mí
+<br>
 
-Desarrollador de software full-stack con experiencia práctica en la creación de **aplicaciones web personalizadas y sistemas de gestión** para casos reales en sectores como salud, educación y coordinación de eventos.
+<!-- Botones de perfil -->
+<p align="center">
+  <a href="https://linkedin.com/in/ramonareyuna-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ramonareyuna09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Areyuna09&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</p>
 
-💻 Manejo tanto el desarrollo **backend como frontend**, incluyendo integración de chatbots y funciones basadas en análisis de datos
-🌱 Actualmente aprendiendo sobre **Inteligencia Artificial**, **Ciencia de Datos** y mejorando mis habilidades en **Python**
-🎯 Apasionado por crear soluciones limpias, escalables y orientadas a mejorar la eficiencia de los negocios
-🌍 Inglés avanzado (C1 certificado)
-⚡ Me gusta resolver problemas complejos con café ☕
+<br>
 
----
+<!-- Sobre mí con iconos -->
+## 👨‍💻 About Me
 
+```javascript
+const ramon = {
+    location: "San Juan, Argentina 🇦🇷",
+    role: "Full-Stack Developer",
+    languages: ["Spanish (Native)", "English (C1 Advanced)"],
+    currentFocus: ["Artificial Intelligence", "Data Science", "Python"],
+    passions: ["Clean Code", "Problem Solving", "Coffee ☕"],
+    motto: "Building scalable solutions, one commit at a time"
+};
+```
+
+<br>
+
+<!-- Tech Stack con Skill Icons -->
 ## 🛠️ Tech Stack
 
 <div align="center">
 
+### Languages
+<img src="https://skillicons.dev/icons?i=php,js,python,c,cpp&theme=dark" />
+
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,vue,bootstrap,tailwind&theme=dark" />
 
 ### Backend & Databases
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" />
 
-### Lenguajes & Herramientas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,wordpress,figma,vscode&theme=dark" />
 
 </div>
 
----
+<br>
 
-## 🚀 Proyectos Destacados
-
-### 🏥 Sistema de Gestión Hospitalaria
-Desarrollo de sistema completo con login seguro, registros de pacientes y gestión médica.
-- **Tech Stack:** PHP, MySQL, Bootstrap
-- **Características:** Autenticación segura, gestión de pacientes, panel médico
-
-### 📅 Sistema de Gestión de Eventos
-Plataforma full-stack con integración de chatbot para consultas y coordinación automatizada.
-- **Tech Stack:** PHP, JavaScript, MySQL, Python
-- **Características:** Chatbot integrado, coordinación de eventos, análisis de datos
-
-### 🎓 Sistema de Información Estudiantil
-Administración completa de alumnos, materias, calificaciones y dashboards interactivos.
-- **Tech Stack:** PHP, MySQL, Vue.js
-- **Características:** Gestión académica, dashboards dinámicos, reportes
-
-### 🏫 Sitio Web Institucional para Escuela
-Desarrollo de sitio web institucional con diseño responsivo y gestión de contenidos.
-- **Tech Stack:** WordPress, Elementor, HTML, CSS
-- **Características:** Diseño responsivo, CMS personalizado
-
----
-
-## 📊 GitHub Stats
+<!-- GitHub Stats -->
+## 📊 GitHub Statistics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Areyuna09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Areyuna09&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Areyuna09&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areyuna09&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </div>
 
----
+<br>
 
-## 🐍 Contribution Snake
+<!-- GitHub Streak -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Areyuna09&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<!-- Trophies -->
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-![Snake animation](https://github.com/Areyuna09/Areyuna09/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Areyuna09&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
----
+<br>
 
-## 📫 Conecta conmigo
+<!-- Activity Graph -->
+## 📈 Contribution Graph
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramonareyuna-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Areyuna09)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramonareyuna09@gmail.com)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Areyuna09&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
----
+<br>
 
-## 🎓 Certificaciones Recientes
+<!-- Certificaciones con diseño moderno -->
+## 🎓 Certifications & Achievements
 
-- 🇬🇧 **Certificado de Inglés EF SET** - C1 Avanzado (2025)
-- 🤖 **Introducción a la Inteligencia Artificial Moderna** - Cisco Networking Academy
-- 📊 **Fundamentos de Ciencia de Datos** - Cisco Networking Academy
-- 🐍 **Fundamentos de Python 1** - Cisco Networking Academy
-- 📈 **Fundamentos de Análisis de Datos** - Cisco Networking Academy
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/English-C1_Advanced-00D9FF?style=for-the-badge&logo=duolingo&logoColor=white" /><br/>
+      <sub><b>EF SET Certificate</b></sub><br/>
+      <sub>2025</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/AI-Fundamentals-00D9FF?style=for-the-badge&logo=openai&logoColor=white" /><br/>
+      <sub><b>Modern AI Intro</b></sub><br/>
+      <sub>Cisco Academy</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Data_Science-Basics-00D9FF?style=for-the-badge&logo=databricks&logoColor=white" /><br/>
+      <sub><b>Data Science Intro</b></sub><br/>
+      <sub>Cisco Academy</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Python-Level_1-00D9FF?style=for-the-badge&logo=python&logoColor=white" /><br/>
+      <sub><b>Python Essentials</b></sub><br/>
+      <sub>Cisco Academy</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Analytics-Fundamentals-00D9FF?style=for-the-badge&logo=googleanalytics&logoColor=white" /><br/>
+      <sub><b>Data Analytics</b></sub><br/>
+      <sub>Cisco Academy</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/IBM-AI_Basics-00D9FF?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
+      <sub><b>AI w/ SkillsBuild</b></sub><br/>
+      <sub>Cisco Academy</sub>
+    </td>
+  </tr>
+</table>
 
----
+<br>
+
+<!-- Footer wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
 
 <div align="center">
-
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Areyuna09&color=blueviolet&style=flat-square&label=Profile+Views)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Footer" />
 </div>
-
