@@ -4,11 +4,11 @@
 </div>
 
 <!-- Profile Section -->
-<div align="center">
-  <img src="assets/profile-circular.png" alt="Ramón Areyuna" width="200" align="left" style="margin-right: 30px;"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D9FF&center=false&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=120&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+scalable+solutions+%F0%9F%92%BB;From+San+Juan%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" align="left"/>
-  <br clear="left"/>
-</div>
+<p align="center">
+  <img src="assets/profile-circular.png" alt="Ramón Areyuna" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D9FF&center=false&vCenter=true&multiline=true&repeat=true&random=false&width=550&height=120&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+scalable+solutions+%F0%9F%92%BB;From+San+Juan%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG"/>
+</p>
 
 <br>
 
