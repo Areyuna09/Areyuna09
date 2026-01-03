@@ -3,17 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ramón%20Areyuna&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
-<!-- Profile Picture -->
-<p align="center">
-  <img src="assets/profile-circular.png" alt="Ramón Areyuna" width="200"/>
-</p>
-
-<br>
-
-<!-- Subtitle animado -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+scalable+solutions+%F0%9F%92%BB;From+San+Juan%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
-</div>
+<!-- Profile Section -->
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <img src="assets/profile-circular.png" alt="Ramón Areyuna" width="200"/>
+    </td>
+    <td align="left" width="650">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D9FF&center=false&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=120&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+scalable+solutions+%F0%9F%92%BB;From+San+Juan%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
