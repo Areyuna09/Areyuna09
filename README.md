@@ -4,7 +4,7 @@
 </div>
 
 <!-- Profile Section -->
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="250">
       <img src="assets/profile-circular.png" alt="Ramón Areyuna" width="200"/>
